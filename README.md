@@ -1,6 +1,5 @@
 # Sentiment-Analysis
-The Aim of this Project is to Analyse the Reviews for a Amazon Product whether they are Positive or Negative
-
+The Aim of this Project is to Analyse the Reviews for a Amazon Product and evaluate the Satisfaction of a Purchase
 EDA is performed on the given dataset and preprocessing is done using nltk.
 
 Data is trained with various ML Classification models and ROC Curves are been plotted for all three sentiments
